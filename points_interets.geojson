@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.0555789600852785,5.3312688189946 ] 
+      },
+      "properties": {
+        "name": "Complexe Sportif BAE",
+        "description": "ideale",
+        "etat": "disponible",
+        "price": "10000 FCFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.998050355522606,5.334606740241972] 
+      },
+      "properties": {
+        "name": "Maquis du Val",
+        "description": "ideale",
+        "etat": "non disponible",
+        "price": "5000 FCFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.994083364631906,5.351778010042607 ] 
+      },
+      "properties": {
+        "name": "Villa Darna - Cuisine Marocaine",
+        "description": "ideale",
+        "etat": "disponible",
+        "price": "10000 FCFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.002902068219027,5.358657904487862 ]
+      },
+      "properties": {
+        "name": "La Villa Alfira",
+        "description": "ideale",
+        "etat": "disponible",
+        "price": "15000 FCFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.0555789600852785,5.3312688189946 ] 
+      },
+      "properties": {
+        "name": "Complexe Sportif BAE",
+        "description": "ideale",
+        "etat": "disponible",
+        "price": "10000 FCFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.998050355522606,5.334606740241972] 
+      },
+      "properties": {
+        "name": "Maison Alexandre",
+        "description": "ideale",
+        "etat": "non disponible",
+        "price": "5000 FCFA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.994083364631906,5.351778010042607 ] 
+      },
+      "properties": {
+        "name": "Villa Darna - Cuisine Marocaine",
+        "description": "ideale",
+        "etat": "disponible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.002902068219027,5.358657904487862 ]
+      },
+      "properties": {
+        "name": "La Villa Alfira",
+        "description": "ideale",
+        "etat": "disponible"
+      }
+    }
+    
+  ]
+}
